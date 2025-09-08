@@ -22,7 +22,7 @@
 
     // Stricter Typechecking Options
     "noUncheckedIndexedAccess": true,
-    "moduleResolution": "node",
+    "moduleResolution": "nodenext",
     "exactOptionalPropertyTypes": true,
 
     // Style Options
